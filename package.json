@@ -13,7 +13,9 @@
   "author": "Atif Zaman",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^7.5.0"
   },
   "devDependencies": {
     "concurrently": "^8.2.0",
